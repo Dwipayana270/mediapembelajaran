@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Langkah-langkah membuat media pembelajaran volume kerucut
 
-You can use the [editor on GitHub](https://github.com/Dwipayana270/mediapembelajaran/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Media ini bertujuan untuk menunjukkan ke peserta didik bahwa volume kerucut sama dengan sepertiga dari volume tabung. Langkah-langkah di Geogebra ialah sebagai berikut.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Langkah 1: Membuat variabel tinggi dan radius*
 
-### Markdown
+tinggi dan radius akan disubstitusi pada *command* kerucut dan tabung.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Commannd*-nya adalah sebagai berikut.
 
-```markdown
-Syntax highlighted code block
+**tinggi = Slider(0, 10)**
 
-# Header 1
-## Header 2
-### Header 3
+**radius = Slider(0, 10)**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+*Langkah 2: Membuat Kerucut*
 
-[Link](url) and ![Image](src)
-```
+Untuk dapat membuat kerucut, kita dapat menggunakan *command*  sebagai berikut.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Cone(A, B, radius)**
 
-### Jekyll Themes
+*Command* tersebut akan menghasilkan kerucut dengan titik puncak di B.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dwipayana270/mediapembelajaran/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Untuk membuat titik A, kita akan membuatnya misalnya di titik **(0, 0, 0)**, dan titik B di titik **(0, 0, tinggi)**
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+*Langkah 3: Membuat Tabung*
+
+Untuk dapat membuat tabung, kita dapat menggunakan *command* sebagai berikut.
+
+**Sylinder(C, D, radius)**
+
+*Command* tersebut akan menghasilkan tabung dengan titik puncak di D.
+
+Kita ingin agar jarak antara kerucut dan tabung misalnya berjarak 1, sehingga titik C dan D berturut-turut **(2radius + 1, 0, 0)** dan (**2radius + 1, 0, tinggi)**
+
+
+
+*Langkah 4: Membuat teks dinamis*
+
+Buat teks yang menampilkan **radius, tinggi, volume kerucut dan volume tabung**.
+
+
+
