@@ -1,4 +1,4 @@
-<iframe src="https://www.geogebra.org/classic/mr4nh259?embed" width="900" height="400" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/mr4nh259?embed" width="1200" height="800" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 # Langkah-langkah Membuat Media Pembelajaran Volume Kerucut
 
