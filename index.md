@@ -22,8 +22,6 @@ tinggi = Slider(0, 10)
 radius = Slider(0, 10)
 ```
 
-Command ini
-
 ## *Langkah 2: Membuat Kerucut*
 
 Untuk dapat membuat kerucut, kita dapat menggunakan *command*  sebagai berikut.
