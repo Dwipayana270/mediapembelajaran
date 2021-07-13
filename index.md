@@ -1,3 +1,5 @@
+<iframe src="https://www.geogebra.org/classic/mr4nh259?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 # Langkah-langkah Membuat Media Pembelajaran Volume Kerucut
 
 Media ini bertujuan untuk menunjukkan ke peserta didik bahwa volume kerucut sama dengan sepertiga dari volume tabung. Langkah-langkah di Geogebra ialah sebagai berikut.
