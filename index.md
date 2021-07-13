@@ -4,7 +4,7 @@ Media Pembelajaran ini bertujuan untuk menunjukkan ke peserta didik bahwa volume
 
 Klik tautan si bawah untuk membuka Media Pembelajaran Volume Kerucut.
 
-[Link Tautan]: https://www.geogebra.org/classic/mr4nh259	"Link Geogebra Volume Kerucut"
+[Link Tautan](https://www.geogebra.org/classic/mr4nh259)
 
 
 
